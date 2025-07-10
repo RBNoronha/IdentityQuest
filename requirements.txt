@@ -1,0 +1,9 @@
+
+aiohttp
+requests
+beautifulsoup4
+lxml
+typer
+httpx
+rich
+pydantic
