@@ -15,7 +15,7 @@
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/RBNoronha/IdentityQuest]
+git clone https://github.com/RBNoronha/IdentityQuest
 cd IdentityQuest
 
 # Instale as dependências
